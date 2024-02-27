@@ -18,6 +18,10 @@
   height: 80px;
 } 
 
+.text-contact{
+  text-decoration: none;
+}
+
 /* Case Size */
 /* 
 @media (min-width: 1200px) {}
